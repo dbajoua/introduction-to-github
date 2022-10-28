@@ -8,7 +8,7 @@
 # Continuous Integration
 
 
-* Create workflows that enable you to use Continuous Integration (CI) for your projects. * 
+*Create workflows that enable you to use Continuous Integration (CI) for your projects.* 
 
 
 
@@ -54,7 +54,7 @@ endstep0-->
 <details id=1>
 <summary><h2>Step 1: Add a test workflow</h2></summary>
 
-* Welcome to "GitHub Actions: Continuous Integration"! :wave: *
+*Welcome to "GitHub Actions: Continuous Integration"! :wave:*
 
 **What is _continuous integration_?**: [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) can help you stick to your team’s quality standards by running tests and reporting the results on GitHub. CI tools run builds and tests, triggered by commits. The results post back to GitHub in the pull request. The goal is fewer issues in `main` and faster feedback as you work.
 
@@ -239,7 +239,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 <details id=X>
 <summary><h2>Finish</h2></summary>
 
-_Congratulations friend, you've completed this course!_
+* Congratulations friend, you've completed this course! * 
 
 <img src=https://octodex.github.com/images/Fintechtocat.png alt=celebrate width=300 align=right>
 
