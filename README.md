@@ -7,7 +7,10 @@
 
 # Continuous Integration
 
+
 * Create workflows that enable you to use Continuous Integration (CI) for your projects. * 
+
+
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -184,7 +187,7 @@ Similar to the upload action to send artifacts to the storage, you can use anoth
 <details id=4 open>
 <summary><h2>Step 4: Add branch protections</h2></summary>
 
-_Great job uploading test reports! :partying_face:_
+* Great job uploading test reports! :partying_face: * 
 
 Take a look at the merge box, you'll notice you can merge this even though the review process hasn't been met.
 
@@ -214,7 +217,7 @@ Protected branches ensure that collaborators on your repository cannot make irre
 <details id=5>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
 
-_Almost there! :heart:_
+* Almost there! :heart: *
 
 You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
 
